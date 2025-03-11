@@ -1,5 +1,5 @@
 # Telecom-Churn-Case-Study
-This repo contains the Telecom Churn Case study work by our team
+This repository contains the Telecom Churn Case study work by our team
 
 ## Business problem overview
  
